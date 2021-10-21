@@ -10,4 +10,8 @@ body {
 	padding-right: 200px;
 	padding-top: 0px;
 	padding-bottom: 40px;
+	font-family: Montserrat;
+}
+h2 {
+	text-decoration: underline;
 }
