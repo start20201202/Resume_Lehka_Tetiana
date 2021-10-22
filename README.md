@@ -1,2 +1,2 @@
 # rsschool-cv_
-[Markdown & Git](https://start20201202.github.io/rsschool-cv/cv)
+[Resume](https://start20201202.github.io/Resume_Lehka_Tetiana/)
